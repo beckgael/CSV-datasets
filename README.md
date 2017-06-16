@@ -7,12 +7,12 @@ Most of datasets comes from UCI, i refactored some of them as CSV.
 
 ## Hierarchy
 
-		Scalar		|
+				Scalar		
 				   	| Classification
 				   	| Clustering
 				   	| Regression
 
-		Categorial	|
+			Categorial	
 				   	| Classification
 				   	| Clustering
 				   	| Regression
