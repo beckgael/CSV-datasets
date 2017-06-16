@@ -10,15 +10,11 @@ Most of datasets comes from UCI, i refactored some of them as CSV.
 Scalar	
 
 	| Classification
-
 	| Clustering
-
 	| Regression
 
 Categorial
 
 	| Classification
-
 	| Clustering
-
 	| Regression
