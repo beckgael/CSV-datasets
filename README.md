@@ -18,3 +18,9 @@ Categorial
 	| Classification
 	| Clustering
 	| Regression
+
+Binary
+
+	| Classification
+	| Clustering
+	| Regression
