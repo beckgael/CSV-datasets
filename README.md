@@ -2,7 +2,7 @@
 Some datasets of different nature parse in CSV format
 
 
-Most of datasets comes from UCI, i refactored some of them as CSV.
+Most of datasets comes from UCI and were refactored in CSV format.
 
 
 ## Hierarchy
