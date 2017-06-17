@@ -28,6 +28,9 @@ Binary
 
 ## Sources
 https://github.com/caesar0301/awesome-public-datasets
+
 http://archive.ics.uci.edu/ml/index.php
+
 https://cs.joensuu.fi/sipu/datasets/
+
 http://rcarbonneau.com/ClusterwiseRegressionDatasets.htm
