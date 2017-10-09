@@ -34,3 +34,5 @@ http://archive.ics.uci.edu/ml/index.php
 https://cs.joensuu.fi/sipu/datasets/
 
 http://rcarbonneau.com/ClusterwiseRegressionDatasets.htm
+
+https://github.com/elbamos/clusteringdatasets
